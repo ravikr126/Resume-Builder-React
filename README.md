@@ -16,7 +16,7 @@ To run the React Resume Builder locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/react-resume-builder.git
+   git clone URL
    
 # Technologies
 React.js: A JavaScript library for building user interfaces.
